@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'iconfont';
+    /* project id 2421974 */
+    src: url('//at.alicdn.com/t/font_2421974_h4uwrrh49wm.eot');
+    src: url('//at.alicdn.com/t/font_2421974_h4uwrrh49wm.eot?#iefix') format('embedded-opentype'), url('//at.alicdn.com/t/font_2421974_h4uwrrh49wm.woff2') format('woff2'), url('//at.alicdn.com/t/font_2421974_h4uwrrh49wm.woff') format('woff'), url('//at.alicdn.com/t/font_2421974_h4uwrrh49wm.ttf') format('truetype'), url('//at.alicdn.com/t/font_2421974_h4uwrrh49wm.svg#iconfont') format('svg');
+}
+
+.iconfont {
+    font-family: 'iconfont'!important;
+    font-style: normal;
+}
+
+.wb-admin::before {
+    content: "\e600";
+    margin-right: 5px;
+}
+
+.wb-phone::before {
+    content: "\e663";
+    margin-right: 5px;
+}
+
+.wb-user::before {
+    content: "\e683";
+    font-size: 22px;
+}
+
+.wb-unlock::before {
+    content: "\e682";
+    font-size: 22px;
+}
+
+.wb-refresh::before {
+    content: "\e67b";
+    font-size: 22px;
+    margin-right: 5px;
+}
+
+.wb-collapse::before {
+    content: "\e694";
+    font-size: 22px;
+    margin-right: 5px;
+}

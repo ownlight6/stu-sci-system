@@ -1,0 +1,12 @@
+/* 基础css */
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    border-style: none;
+ }
+ 
+ a {
+    text-decoration: none;
+ }
